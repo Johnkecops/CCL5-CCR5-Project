@@ -1,5 +1,10 @@
 SCRIPT DIRECTORY — CDK Chemokine 2026 / First Iteration
 ========================================================
+The scripts was developed for this following manuscript:
+
+Dhea Priskila , Angelo Christiano Aouad Tomodok, Beatrice Valerie Basuki, Carissa Putri Pratama, Carolyn Nathaniel, Aishah Muhsin, Cheryl Yang, Daisy Jemima Bappedyanto, **Arli Aditya Parikesit**. 2026. Molecular Simulation-Based Drug Repurposing of Thioridazine and Losartan for Targeting CXCR4 and CCR5 Chemokine Receptors in Breast Cancer. _(in press/accepted)_. Journal of Science and Technology. UTHM Publisher, Malaysia. 
+
+
 All Python scripts deployed during the manuscript revision session (May 2, 2026).
 Author: Dr. Arli Aditya Parikesit — i3L University
 
