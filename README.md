@@ -97,3 +97,5 @@ mvc_crystal.pdb     — MRV residue chain A extracted from 4MBS via grep
 mvc_crystal.sdf     — Crystal ligand converted to SDF via Open Babel
 interactions.tsv    — Tab-separated interaction table (22 residues)
 figure2_original.png — Backup of original Figure 2 before annotation
+
+**AI Assistance Disclaimer**: This codebase was developed with the assistance of Claude Code. While the AI provided code generation, debugging, and structural support, the human developer maintains full responsibility for reviewing, testing, and maintaining all content and functionality.
