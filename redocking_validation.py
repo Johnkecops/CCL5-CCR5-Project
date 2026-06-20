@@ -139,6 +139,8 @@ print("Validation: " + ("PASSED (< 2.0 A)" if best_rmsd < 2.0 else "CHECK NEEDED
 # ── 4. Save complex PDB ──────────────────────────────────────────────────────
 class ReceptorSelect(Select):
     def accept_residue(self, res):
+        # Bio.PDB.Select override — PDBIO.save() calls this per residue via internal dispatch.
+        # No direct call site exists in this repo; static analysis will flag it as dead code.
         if lig_residue and res == lig_residue:
             return False
         if res.get_resname().strip() in {'HOH','WAT'}:

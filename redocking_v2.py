@@ -88,6 +88,8 @@ print("Status: " + ("VALIDATED (< 2.0 Å)" if best_rmsd < 2.0 else "REQUIRES CHE
 # ── 4. Save complex PDB ───────────────────────────────────────────────────────
 class NoLigNoWat(Select):
     def accept_residue(self, r):
+        # Bio.PDB.Select override — PDBIO.save() calls this per residue via internal dispatch.
+        # No direct call site exists in this repo; static analysis will flag it as dead code.
         return r != lig_residue and r.get_resname().strip() not in ('HOH','WAT')
 
 io = PDBIO(); io.set_structure(struct)
