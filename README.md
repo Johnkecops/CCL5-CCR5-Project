@@ -2,7 +2,7 @@ SCRIPT DIRECTORY — CDK Chemokine 2026 / First Iteration
 ========================================================
 The scripts was developed for this following manuscript:
 
-Jefferson Hosea Setiabang, Jessica Ashley Hartono, Jessie Maria Tanamas, Justin Chang, **Arli Aditya Parikesit**. (2026). Molecular Docking Insights into CCL5-CCR5 and Maraviroc-CCR5 Interactions: Structural Basis for Chemokine Receptor Antagonism. _(in press/accepted)_. Jurnal Biologi Indonesia, Perhimpunan Biologi Indonesia. 
+Jefferson Hosea Setiabang, Jessica Ashley Hartono, Jessie Maria Tanamas, Justin Chang, **Arli Aditya Parikesit**. (2026). Molecular Docking Insights into CCL5-CCR5 and Maraviroc-CCR5 Interactions: Structural Basis for Chemokine Receptor Antagonism. https://bit.ly/4azcngJ . 22(1): 103-112. Jurnal Biologi Indonesia, Perhimpunan Biologi Indonesia. 
 
 
 
